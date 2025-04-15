@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+models/
+*.pkl
+
+
+
+data_sample/raw/amazon_review_polarity_csv/train.csv
